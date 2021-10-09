@@ -29,11 +29,11 @@ function Header() {
                         </li>
 
                         <li>
-                        <a href="/about-us">About HealingCare</a>
+                        <a href="mailto:contact@healingcarejobs.com">Support Email</a>
                         </li>
 
                         <li>
-                        <a href="mailto:contact@healingcarejobs.com">Support Email</a>
+                        <a href="https://blog.healingcarejobs.com/">Blog</a>
                         </li>
 
                     </ul>			
